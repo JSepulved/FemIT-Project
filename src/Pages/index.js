@@ -1,14 +1,14 @@
-import ContactsPage from "./Contacts/ContactsPage";
-import EducationPage from "./Education/EducationPage";
-import HomePage from "./Home/HomePage";
-import InspirationPage from "./Inspiration/InspirationPage";
-import JobsPage from "./Jobs/JobsPage";
-import LandingPage from "./LandingPage/LandingPage";
-import LoginPage from "./Login/LoginPage";
-import MentorshipPage from "./Mentorship/MentorshipPage";
-import ProfilePage from "./Profile/ProfilePage";
-import RegisterPage from "./Register/RegisterPage";
-import ErrorPage from "./Error/ErrorPage";
+import ContactsPage from "./contacts/ContactsPage";
+import EducationPage from "./education/EducationPage";
+import HomePage from "./home/HomePage";
+import InspirationPage from "./inspiration/InspirationPage";
+import JobsPage from "./jobs/JobsPage";
+import LandingPage from "./landing/LandingPage";
+import LoginPage from "./login/LoginPage";
+import MentorshipPage from "./mentorship/MentorshipPage";
+import ProfilePage from "./profile/ProfilePage";
+import RegisterPage from "./register/RegisterPage";
+import ErrorPage from "./error/ErrorPage";
 
 export {
 	ContactsPage,
