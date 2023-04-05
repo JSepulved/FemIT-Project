@@ -5,6 +5,7 @@ import Comment from "./comment/Comment";
 import Footer from "./footer/Footer";
 import FormRegister from "./form/FormRegister";
 import FormLogIn from "./form/FormLogIn";
+import FormLoginSeigi from "./form/FormLoginSeigi";
 import Image from "./image/Image";
 import Logo from "./logo/Logo";
 import Modal from "./modal/Modal";
@@ -15,19 +16,20 @@ import Publication from "./publication/Publication";
 import Reactions from "./reactions/Reaction";
 
 export {
-  Banner,
-  Button,
-  Card,
-  Comment,
-  Footer,
-  FormRegister,
-  FormLogIn,
-  Image,
-  Logo,
-  Modal,
-  Navbar,
-  NavbarLanding,
-  Portfolio,
-  Publication,
-  Reactions,
+	Banner,
+	Button,
+	Card,
+	Comment,
+	Footer,
+	FormRegister,
+	FormLogIn,
+	FormLoginSeigi,
+	Image,
+	Logo,
+	Modal,
+	Navbar,
+	NavbarLanding,
+	Portfolio,
+	Publication,
+	Reactions,
 };

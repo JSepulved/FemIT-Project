@@ -1,8 +1,8 @@
-import * as React from "react";
-import Button from "@mui/material/Button";
+import React from "react";
+import "./button.css";
 
-export default function first({ texto, variant, color }) {
-	<Button variant={variant} color={color}>
-		{texto}
-	</Button>;
-}
+const Button = ({ texto, buttonClass }) => {
+	return <button className={buttonClass}>{texto}</button>;
+};
+
+export default Button;
