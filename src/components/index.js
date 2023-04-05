@@ -1,18 +1,18 @@
-import Banner from "./bannerx/Banner";
-import Button from "./buttonx/Button";
-import Card from "./cardx/Card";
-import Comment from "./commentx/Comment";
-import Footer from "./footerx/Footer";
-import FormRegister from "./formx/FormRegister";
-import FormLogIn from "./formx/FormLogIn";
-import Image from "./imagex/Image";
-import Logo from "./logox/Logo";
-import Modal from "./modalx/Modal";
-import Navbar from "./navbarx/Navbar";
-import NavbarLanding from "./navbarx/NavbarLanding";
-import Portfolio from "./portfoliox/Portfolio";
-import Publication from "./publicationx/Publication";
-import Reactions from "./reactionsx/Reaction";
+import Banner from "./banner/Banner";
+import Button from "./button/Button";
+import Card from "./card/Card";
+import Comment from "./comment/Comment";
+import Footer from "./footer/Footer";
+import FormRegister from "./form/FormRegister";
+import FormLogIn from "./form/FormLogIn";
+import Image from "./image/Image";
+import Logo from "./logo/Logo";
+import Modal from "./modal/Modal";
+import Navbar from "./navbar/Navbar";
+import NavbarLanding from "./navbar/NavbarLanding";
+import Portfolio from "./portfolio/Portfolio";
+import Publication from "./publication/Publication";
+import Reactions from "./reactions/Reaction";
 
 export {
   Banner,

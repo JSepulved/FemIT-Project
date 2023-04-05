@@ -1,5 +1,5 @@
 import React from "react";
-import Button from "../buttonx/Button";
+import Button from "../button/Button";
 
 const FormRegister = () => {
   return (
