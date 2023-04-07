@@ -1,7 +1,9 @@
-/* html {
-	background-color: #dcdcdc;
+:root {
+	--color-secondary: #3b0b47;
+	--color-02: #640744;
+	--color-primary: #c40061;
+	--color-04: #797979;
+	--color-05: #999999;
+	--color-06: #ececec;
+	--color-07: #fafafa;
 }
-
-body {
-	background-color: none;
-} */

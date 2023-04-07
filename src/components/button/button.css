@@ -1,0 +1,10 @@
+.submit {
+	background-color: var(--color-primary);
+}
+
+.delete {
+	background-color: red;
+}
+
+.button {
+}
